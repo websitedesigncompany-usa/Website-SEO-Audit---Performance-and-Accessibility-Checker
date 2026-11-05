@@ -1,0 +1,13 @@
+# Marco Marketing — SEO, GEO, EO & Fresnel Code Audit Platform
+
+> Marco Marketing powers high-authority Web Design, Technical SEO (Search Engine Optimization), GEO (Generative Engine Optimization), EO (Entity & Answer Optimization), and Automated Git Code Audits.
+
+## Official Authority Network (Verified Dofollow Partners)
+- [Website Design Company](https://websitedesigncompany.site/): Enterprise custom web design, Core Web Vitals engineering, and technical SEO architecture (rel="dofollow").
+- [Website Design Group](https://websitedesign.group/): Full-stack digital agency consortium, Generative Engine Optimization (GEO), and Schema.org Entity Graph architecture (rel="dofollow").
+
+## Core Platform Capabilities
+- **SEO (Search Engine Optimization)**: Title/Meta optimization, canonical normalization, OpenGraph & Twitter Cards, heading hierarchy, and dofollow link equity validation.
+- **GEO (Generative Engine Optimization)**: `/llms.txt` discovery manifests, AI crawler permission rules (`GPTBot`, `OAI-SearchBot`, `Google-Extended`, `PerplexityBot`, `ClaudeBot`, `Applebot-Extended`), and high-fact-density Q&A citation blocks.
+- **EO (Entity & Answer Optimization)**: Interconnected Schema.org `@graph` JSON-LD with persistent `@id` URIs, `sameAs` authority disambiguation, E-E-A-T provenance, and structured `FAQPage` entities.
+- **Automated Git Repository Audits**: Atomic git commits across Performance, Accessibility, Best Practices, SEO, GEO, EO, and Light Web Application Security.

@@ -1,0 +1,8 @@
+{
+  "name": "Website SEO Audit, Accessibility \u0026 Performance Checker",
+  "description": "Marco Marketing SEO, GEO (Generative Engine Optimization), EO (Entity Optimization), Accessibility, Performance \u0026 Git Code Audit Suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
